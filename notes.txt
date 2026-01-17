@@ -1,0 +1,2 @@
+Use testnet only.
+Never use real private keys.
